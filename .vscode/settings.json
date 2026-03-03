@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python - <<'PYTHON'\nimport inspect\nfrom coincurve import PublicKey\nprint\\(inspect\\.signature\\(PublicKey\\.from_signature_and_message\\)\\)\nprint\\(PublicKey\\.from_signature_and_message\\.__doc__\\)\nPYTHON$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
