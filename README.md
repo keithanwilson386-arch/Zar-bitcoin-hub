@@ -1,4 +1,4 @@
-# Zar-bitcoin-hub
+ # Zar-bitcoin-hub
 Bitcoin exchange app
 
 ## BTC to ZAR converter
